@@ -19,4 +19,18 @@ The main objectives of this report are:
 - Simulation and Results
 - References
 
-## Repository Structure
+
+## Course Information
+- Course Name: Computer Networks
+- Topic: Routing Protocols
+- Academic Year: 2025/2026
+
+## Author
+- Name: Anas Nofal
+- University: HIAST
+
+## References
+The references are included in the Report
+
+---
+This repository is intended for educational and academic purposes only.
